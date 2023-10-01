@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=J6 Old Footprint=HRS_TF13BA-6S-0.4SH(800) New Footprint=F3081B7F121006E200
+Change Component Comment : Designator=U1 Old Comment=NCV1117ST33T3G New Comment=ZLDO1117QG33TA
+Change Component Comment : Designator=J6 Old Comment=TF13BA-6S-0.4SH(800) New Comment=F3081B7F121006E200
+Change component parameters: Designator = "J6" ("J6"); Footprint = "HRS_TF13BA-6S-0.4SH(800)"; UniqueID = "\OLFOYXDJ" ("\OLFOYXDJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol Aorora"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "F3081B7F121006E200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.507"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "649-F3081B7F006E200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "F3081B7F121006E200"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOT223-3"; UniqueID = "\MBALJEXD" ("\MBALJEXD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ZLDO1117QG33TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.63"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "621-ZLDO1117QG33TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "ZLDO1117QG33TA"; VariantName = "[No Variations]"
+Add Class Member: Failed to add class member : Component X? Voltage Multiplier

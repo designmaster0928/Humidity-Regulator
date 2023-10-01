@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [Humidity Regulator.PcbDoc]
+   Generated File[Humidity Regulator_Copper_Signal_Top.gbr]
+   Generated File[Humidity Regulator_Copper_Signal_Bot.gbr]
+   Generated File[Humidity Regulator_Pads_Bot.gbr]
+   Generated File[Humidity Regulator_Pads_Top.gbr]
+   Generated File[Humidity Regulator_Paste_Top.gbr]
+   Generated File[Humidity Regulator_Soldermask_Bot.gbr]
+   Generated File[Humidity Regulator_Soldermask_Top.gbr]
+   Generated File[Humidity Regulator_Legend_Top.gbr]
+   Generated File[Humidity Regulator_Keep-out.gbr]
+   Generated File[Humidity Regulator_Courtyard_Top.gbr]
+   Generated File[Humidity Regulator_Courtyard_Bottom.gbr]
+   Generated File[Humidity Regulator_3D_Top.gbr]
+   Generated File[Humidity Regulator_Outline.gbr]
+   Generated File[Humidity Regulator_Test_Points_Bottom.gbr]
+   Generated File[Humidity Regulator_Bottom_3D_Body.gbr]
+   Generated File[Humidity Regulator_Profile.gbr]
+   Generated File[Humidity Regulator_PTH_Drill.gbr]
+   Generated File[Humidity Regulator_Drawing_1.gbr]
+   Generated File[Humidity Regulator_Drillmap_1.gbr]
+   Generated File[Humidity Regulator.RUL]
+   Generated File[Humidity Regulator.EXTREP]
+   Generated File[Humidity Regulator.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 11:06:52 PM On 9/27/2023
